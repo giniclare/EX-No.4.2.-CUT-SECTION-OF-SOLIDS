@@ -1,5 +1,5 @@
 # EX No.4.2. CUT SECTION OF SOLIDS
-## DATE:02-12-2025
+## DATE:12-12-2025
 
 ## AIM: 
 To create the solid model from given drawing and section the solid model
